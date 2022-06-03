@@ -106,7 +106,7 @@ VALUES
   ('Library of liberty', 4, 2003),
   ('Chained Down', 5, 2007),
   ('Cabinet of fools', 5, 2012),
-  ('No guarantiees', 5, 2015),
+  ('No guarantees', 5, 2015),
   ('Apparatus', 6, 2015);
 
 CREATE TABLE SpotifyClone.musics(
